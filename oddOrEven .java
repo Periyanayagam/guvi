@@ -2,7 +2,7 @@ package crap;
 
 import java.util.Scanner;
 
-class oddOrEven {
+class oddOrEven{
 	 
 		 public static void main(String [] args) { 
 			 
